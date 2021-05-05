@@ -13,32 +13,41 @@
 - What is the best time to sell our products?
 
 ## Cleaning and preparation:
-The data shows the sales of an electronics store, you can see the raw data in this link **LINK**
-As you can see in the image below, the format of the data was not appropriate for the analysis, so it had to be cleaned and prepared. The activities performed were the following
+The data shows the sales of an electronics store, you can see the raw data in this link **LINK** [title](https://www.example.com)
+As you can see in the image below, the format of the data was not appropriate for the analysis, so it had to be cleaned and prepared. 
 
-**IMAGEN**
+![Raw Data](images/Raw_data.PNG)
 
+The activities performed were the following:
 - Eliminate duplicates and cells that did not correspond to the data.
 - Eliminate or correct missing values
 - Adjust the dates because they did not have the proper format.
 - Create the time, city and state columns for the analysis.
 
+![Cleaned Data](images/Cleaned_data.PNG)
+
 ## Data analysis:
 Most of this analysis was done using Excel pivot tables and creating visualizations considering the target questions.
 
 - Which product of all the stores generates the highest profits: For this, the products were analyzed with respect to sales.
-**Imagen**
+
+![Top products](images/Top_5_products.PNG)
 
 - Which months of 2019 will generate the highest profits and on which dates? The sales analysis was made over time
-**Imagen**
+
+![Sales by Month](images/Sales_by_Month.PNG)
 
 - What is the best time to sell our products? The time and days of the week were used to evaluate the sales performance in a week.
-**Imagen**
+
+![Sales by Hour](images/Sales_by_Hour.PNG)
 
 ## Vizualitation:
 Finalmente se obtuvo un dashboard con 2 hojas en las que se muestran las ventas de manera general y en el otro se muestra el rendimiento de estas a diferentes horas del dia y semanas
-Puede ver los dashboards aqui abajo y puede acceder al documento en este enlace **ENLACE**
-**IMAGENES**
+Puede ver los dashboards aqui abajo y puede acceder al documento en este enlace **ENLACE** [title](https://www.example.com)
+
+![Sales Overview](images/Sales_overview.PNG)
+
+![Performance Overview](images/Performance_Overview.PNG)
 
 ## Conclutions:
 - Despite being the least sold product, the McBook Pro Laptop remains the best selling product every month.
