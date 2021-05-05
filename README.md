@@ -13,6 +13,7 @@
 - What is the best time to sell our products?
 
 ## Cleaning and preparation:
+The data shows the sales of an electronics store, you can see the raw data in this link **LINK**
 As you can see in the image below, the format of the data was not appropriate for the analysis, so it had to be cleaned and prepared. The activities performed were the following
 
 **IMAGEN**
@@ -35,8 +36,12 @@ Most of this analysis was done using Excel pivot tables and creating visualizati
 **Imagen**
 
 ## Vizualitation:
+Finalmente se obtuvo un dashboard con 2 hojas en las que se muestran las ventas de manera general y en el otro se muestra el rendimiento de estas a diferentes horas del dia y semanas
+Puede ver los dashboards aqui abajo y puede acceder al documento en este enlace **ENLACE**
+**IMAGENES**
+
 ## Conclutions:
-- Que objetos se venden mas
-- Que meses se venden mas
-- Que productos se venden mas y generan mas ganancias
-- Que dias y horas tienen mayor ocurrencia
+- Despite being the least sold product, the McBook Pro Laptop remains the best selling product every month.
+- The best times to sell are at 12:00 and 19:00 on Tuesdays, October and December are the best selling months.
+- Sales in California were much higher than in the other states, concentrating marketing efforts here would generate higher profits but it is necessary to analyze the competition and market saturation for a better conclusion.
+- It is advisable to focus marketing efforts on the McBook Pro as slightly increasing sales in this product could considerably increase profits.
