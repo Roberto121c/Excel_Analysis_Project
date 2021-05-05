@@ -27,7 +27,7 @@ The activities performed were the following:
 ![Cleaned Data](images/Cleaned_data.PNG)
 
 ## Data analysis:
-Most of this analysis was done using Excel pivot tables and creating visualizations considering the target questions.
+Most of this analysis was done using Excel pivot tables and visualizations considering the target questions.
 
 - Which product of all the stores generates the highest profits: For this, the products were analyzed with respect to sales.
 
